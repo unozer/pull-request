@@ -1,0 +1,11 @@
+uno
+due
+tre
+quattro
+cinque
+Hello
+World
+sei
+sette
+qwerty
+poi
