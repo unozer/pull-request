@@ -3,8 +3,6 @@ due
 tre
 quattro
 cinque modificata da Giuseppe
-Hello
-World
 sei
 sette
 qwerty
