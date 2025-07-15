@@ -11,3 +11,6 @@ asdasdsadasd
 modifica riga appena aggiunta
 aggiungo un altra riga
 modifica concorrente
+
+
+riga nuovissima, concorrente
